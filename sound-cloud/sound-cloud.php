@@ -25,7 +25,7 @@
 		<p>To expand listener base and distribution.</p>
 	</body>
 	<h3>Typical Persona</h3>
-		<img class="dj" src="images/dj.jpg" alt="not found" >
+		<img class="dj" src="images/dj.png" alt="not found" >
 	<br>
 	<br>
 	<br>
