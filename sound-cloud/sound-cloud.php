@@ -9,7 +9,7 @@
 	</head>
 	<h1>Sound Cloud Playlist Data Relationship Model</h1>
 	<div>
-		<img src="images/diagram2.svg" alt="not found" >
+		<img src="images/diagram.svg" alt="not found" >
 	</div>
 	<h2>Purpose, Audience, Goal</h2>
 	<h3>Purpose</h3>
