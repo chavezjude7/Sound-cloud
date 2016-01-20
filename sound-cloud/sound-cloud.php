@@ -2,8 +2,7 @@
 	<html>
 	<head>
 		<meta charset="utf-8" >
-		<link rel='sylesheet' href="css/style.css" type='text/css' />
-
+		<link href="sylesheet.css" rel="sylesheet" type="text/css" />
 		<title>
 			Sound-Cloud
 		</title>
