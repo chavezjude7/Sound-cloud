@@ -14,17 +14,24 @@
 	<h2>Purpose, Audience, Goal</h2>
 	<h3>Purpose</h3>
 	<body>
-		To allow artists to listen to and collaborate on audio media.
+		<p>To allow artists to listen to and collaborate on audio media.</p<
 	</body>
 	<h3>Audience</h3>
 	<body>
-		Artists and music producers looking to expand their listener base.
+		<p>Artists and music producers looking to expand their listener base.</p>
 	</body>
 	<h3>Goal</h3>
 	<body>
-		To expand listener base and distribution.
+		<p>To expand listener base and distribution.</p>
 	</body>
 	<h3>Typical Persona</h3>
+		<img class="dj" src="images/dj.jpg" alt="not found" >
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<h4>Josh</h4>
 	<body>
 		<p>

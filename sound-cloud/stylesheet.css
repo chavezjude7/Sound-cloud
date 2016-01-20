@@ -1,9 +1,46 @@
 body {
 	margin-inside: 30%;
 	font-size: medium;
-
 }
 
-html {
+p {
+	color: floralwhite;
+}
+
+html
+{
+	background: slategrey;
+}
+
+
+img {
+	align-content: center;
+	height: 700px;
+	width: 700px;
+	float: right;
+}
+
+h1 {
 	text-align: center;
+	color: floralwhite;
+}
+
+h2 {
+	color: floralwhite;
+}
+
+h3 {
+	color: floralwhite;
+}
+
+h4 {
+	color: floralwhite;
+}
+
+.dj {
+	align-content: left;
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin: 20px;
 }
