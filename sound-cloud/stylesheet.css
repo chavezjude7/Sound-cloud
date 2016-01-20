@@ -1,7 +1,9 @@
-html {
-	background: blue;
+body {
+	margin-inside: 30%;
+	font-size: medium;
+
 }
 
-p {
-	background: blue;
+html {
+	text-align: center;
 }
