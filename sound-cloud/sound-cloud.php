@@ -2,8 +2,8 @@
 	<html>
 	<head>
 		<meta charset="utf-8" >
-		<link rel="sylesheet"href="css/style.css"/>
-		<link href="url" rel='stylesheet'type='text/css'>
+		<link rel='sylesheet' href="css/style.css" type='text/css' />
+
 		<title>
 			Sound-Cloud
 		</title>
