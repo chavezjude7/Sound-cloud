@@ -9,7 +9,8 @@
 	<div>
 		<img src="Diagram.svg" alt="not found" >
 	</div>
-	<h2>Typical Persona</h2>
+	<h2>Purpose, Audience, Goal</h2>
+	<h3>Typical Persona</h3>
 	<h4>Josh</h4>
 	<body>
 		<p>
@@ -17,5 +18,8 @@
 		</p>
 	</body>
 	<h4>Use Case</h4>
+	<body>
+		<p>For this particular website Josh will have to create a profile. Once Josh Creates his profile he will have to add tracks. Once he has done that josh will have to name and describe his track along with added specific hastags in order to categorize his music within the site. In order to create a playlist josh will have to like a track in order to added it to a playlist of his choosing. If someone wants to add his tracks to there playlist they will have to do the same. </p>
+	</body>
 
 </html>
