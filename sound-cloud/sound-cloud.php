@@ -7,7 +7,7 @@
 			Sound-Cloud
 		</title>
 	</head>
-	<h1>Sound Cloud Playlist Data Relationship Model</h1>
+	<h1>Sound Cloud Data Relationship Model</h1>
 	<div>
 		<img src="images/diagram.svg" alt="not found" >
 	</div>
@@ -26,12 +26,6 @@
 	</body>
 	<h3>Typical Persona</h3>
 		<img class="dj" src="images/dj.png" alt="not found" >
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 	<h4>Josh</h4>
 	<body>
 		<p>

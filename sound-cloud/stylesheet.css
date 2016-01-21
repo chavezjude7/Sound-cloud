@@ -4,43 +4,44 @@ body {
 }
 
 p {
-	color: floralwhite;
+	color: black;
 }
 
 html
 {
-	background: slategrey;
+	background: lightgrey;
+	text-align: center;
+	float: left;
 }
 
 
 img {
 	align-content: center;
-	height: 700px;
+	height: 900px;
 	width: 700px;
 	float: right;
+	
 }
 
 h1 {
 	text-align: center;
-	color: floralwhite;
+	color: black;
 }
 
 h2 {
-	color: floralwhite;
+	color: black;
 }
 
 h3 {
-	color: floralwhite;
+	color: black;
 }
 
 h4 {
-	color: floralwhite;
+	color: black;
 }
 
 .dj {
-	align-content: left;
 	height: 80px;
 	width: 80px;
-	float: left;
-	margin: 20px;
+	float: center;
 }
