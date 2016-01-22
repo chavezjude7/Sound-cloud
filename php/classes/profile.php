@@ -40,6 +40,10 @@
 		 **/
 
 		public function setProfileId($newProfileId) {
+			if($newProfileId ===null) {
+				$this->profileId = null;
+				return;
+			}
 			$newProfileId = filter_var($newProfileId, FILTER_VALIDATE_INT);
 			if($newProfileId == false) {
 
@@ -51,3 +55,4 @@
 		}
 
 	}
+
