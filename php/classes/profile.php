@@ -9,7 +9,7 @@
  * $author Jude Chavez <chavezjude7@gamil.comn>
  *
  */
-	class profile {
+	class Profile {
 		/**
 		 * id for the profile; this is the primary key
 		 * @var int $profileId
@@ -29,7 +29,7 @@
 		 *
 		 * @return int value of profile id
 		 */
-		public function getprofileId() {
+		public function getProfileId() {
 			return ($this->profileId);
 		}
 
