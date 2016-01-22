@@ -54,5 +54,41 @@
 			$this->profileId = $newProfileId;
 		}
 
+		/**
+		 * accessor method for profile
+		 *
+		 * @return int value of profile id
+		 */
+		public function getTrackId() {
+			return $this->trackId;
+		}
+
+		/**
+		 * @param int $newprofileId new value of profile id
+		 * @throws InvalidArgumentException if profile id is not an integer
+		 * @throws RangeException if profile id is negative
+		 **/
+
+		public function setTrackId($trackId) {
+			if($newTrackId ===null) {
+				$his->profileId = null;
+				return;
+			}
+			$newTrackId = filter_var($newTrackId, FILTER_VALIDATE_INT);
+			if($newTrackId == false) {
+
+			}
+			if ($newTrackId <=0) {
+				throw(new RangeException("track id must be positve"));
+			}
+			$this->trackId = $newTrackId
+		}
+
+		$track = new profile(); //default, empty object
+		$track->setProfileId(32);
+		$track->setTrackId(128);
+
+
+
 	}
 
