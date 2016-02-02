@@ -20,7 +20,7 @@
 	<body>
 		<p>Artists and music producers looking to expand their listener base.</p>
 	</body>
-	<h3>Goal</h3>
+	<h3>Goal</h3
 	<body>
 		<p>To expand listener base and distribution.</p>
 	</body>

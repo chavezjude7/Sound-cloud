@@ -40,7 +40,7 @@
 		 **/
 
 		public function setProfileId($newProfileId) {
-			if($newProfileId ===null) {
+			if($newProfileId === null) {
 				$this->profileId = null;
 				return;
 			}
@@ -48,7 +48,7 @@
 			if($newProfileId == false) {
 
 			}
-			if ($newProfileId <= 0) {
+			if($newProfileId <= 0) {
 				throw(new RangeException("profile id must be positve"));
 			}
 			$this->profileId = $newProfileId;
@@ -70,25 +70,23 @@
 		 **/
 
 		public function setTrackId($trackId) {
-			if($newTrackId ===null) {
-				$his->profileId = null;
+			if($newTrackId === null) {
+				$this->profileId = null;
 				return;
 			}
 			$newTrackId = filter_var($newTrackId, FILTER_VALIDATE_INT);
 			if($newTrackId == false) {
 
 			}
-			if ($newTrackId <=0) {
+			if($newTrackId <= 0) {
 				throw(new RangeException("track id must be positve"));
 			}
-			$this->trackId = $newTrackId
+			$this->trackId = $newTrackId;
+			$track = new profile(); //default, empty object
+			$track->setProfileId(32);
+			$track->setTrackId(128);
+
 		}
-
-		$track = new profile(); //default, empty object
-		$track->setProfileId(32);
-		$track->setTrackId(128);
-
-
-
 	}
+
 
